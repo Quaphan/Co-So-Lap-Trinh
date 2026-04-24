@@ -1,0 +1,14 @@
+D:\C#\Exercises-1\7\bin\Debug\net10.0\7.exe
+D:\C#\Exercises-1\7\bin\Debug\net10.0\7.deps.json
+D:\C#\Exercises-1\7\bin\Debug\net10.0\7.runtimeconfig.json
+D:\C#\Exercises-1\7\bin\Debug\net10.0\7.dll
+D:\C#\Exercises-1\7\bin\Debug\net10.0\7.pdb
+D:\C#\Exercises-1\7\obj\Debug\net10.0\7.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Exercises-1\7\obj\Debug\net10.0\7.AssemblyInfoInputs.cache
+D:\C#\Exercises-1\7\obj\Debug\net10.0\7.AssemblyInfo.cs
+D:\C#\Exercises-1\7\obj\Debug\net10.0\7.csproj.CoreCompileInputs.cache
+D:\C#\Exercises-1\7\obj\Debug\net10.0\7.dll
+D:\C#\Exercises-1\7\obj\Debug\net10.0\refint\7.dll
+D:\C#\Exercises-1\7\obj\Debug\net10.0\7.pdb
+D:\C#\Exercises-1\7\obj\Debug\net10.0\7.genruntimeconfig.cache
+D:\C#\Exercises-1\7\obj\Debug\net10.0\ref\7.dll
